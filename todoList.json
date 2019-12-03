@@ -1,0 +1,62 @@
+[
+    {
+        "task":"Create server",
+        "_id":1575384069529,
+        "done":true
+    },
+    {
+        "task":"Use express module",
+        "_id":1575384221835,
+        "done":false
+    },
+    {
+        "task":"Create authorization",
+        "_id":1575384491037,
+        "done":true
+    },
+    {
+        "task":"Create methods",
+        "_id":1575384542522,
+        "done":true
+    },
+    {
+        "task":"Create JSON database file",
+        "_id":1575384628500,
+        "done":false
+    },
+    {
+        "task":"Listed all dependencies in package.json",
+        "_id":1575384750783,
+        "done":false
+    },
+    {
+        "task":"Parse body params",
+        "_id":1575384779555,
+        "done":false
+    },
+    {
+        "task":"Validate Joi",
+        "_id":1575384858400,
+        "done":false
+    },
+    {
+        "task":"Use Helmet",
+        "_id":1575385016750,
+        "done":true
+    },
+    {
+        "task":"Use REST naming convention",
+        "_id":1575385029101,
+        "done":true
+    },
+    {
+        "task":"Handle database exceptions",
+        "_id":1575385149394,
+        "done":true
+    },
+    {
+        "task":"Cover logic with Mocha.js test",
+        "_id":1575385224248,
+        "done":false
+    }
+]
